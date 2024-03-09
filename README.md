@@ -2,4 +2,6 @@
 
 ## Overview
 
-This Analysis aimed to show some key metrics of performance in LinkedIn using my personal data. To see more in detail, see the next link: https://public.tableau.com/app/profile/andres2863/viz/LinkedInAnalysis_17099392348000/Dashboard1
+This analysis was designed to highlight important performance metrics on LinkedIn, utilizing my personal data. For a more detailed view, please follow the next link:
+
+https://public.tableau.com/app/profile/andres2863/viz/LinkedInAnalysis_17099392348000/Dashboard1
